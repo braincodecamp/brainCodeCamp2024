@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "target": "course-braincodecamp",
+    "target": "course2024-braincodecamp",
     "public": "_build/html",
     "ignore": [
       "firebase.json",

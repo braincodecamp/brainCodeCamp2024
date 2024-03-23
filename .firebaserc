@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "braincodequiz"
+  },
+  "targets": {
+    "braincodequiz": {
+      "hosting": {
+        "course2024-braincodecamp": [
+          "course2024-braincodecamp"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
