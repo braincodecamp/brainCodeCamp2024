@@ -18,7 +18,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/titipat_achakulvisut.jpeg" class="card-img-top" alt="titipat_achakulvisut">
+            <img src="/img-staff/Titipat_Achakulvisut.jpeg" class="card-img-top" alt="titipat_achakulvisut">
             <div class="card-body">
                 <h5 class="card-title m-0">ฐิติพัทธ อัชชะกุลวิสุทธิ์ (มาย)</h5>
                 <p class="card-text">
@@ -30,7 +30,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/sedthapong_chunamchai.jpeg" class="card-img-top" alt="sedthapong_chunamchai">
+            <img src="/img-staff/Sedthapong_Chunamchai.jpeg" class="card-img-top" alt="sedthapong_chunamchai">
             <div class="card-body">
                 <h5 class="card-title m-0">เสฎฐพงศ์ ชูนามชัย (พีท)</h5>
                 <p class="card-text">
@@ -107,7 +107,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/korrawiz_chotayapa.jpeg" class="card-img-top" alt="korrawiz_chotayapa">
+            <img src="/img-staff/Korrawiz_Chotayapa.jpeg" class="card-img-top" alt="korrawiz_chotayapa">
             <div class="card-body">
                 <h5 class="card-title m-0">กรวิชญ์  โชตยาภา (อ๋อง)</h5>
                 <p class="card-text">
