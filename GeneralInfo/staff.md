@@ -160,7 +160,7 @@
                 <h5 class="card-title m-0">ประภาสิริ เศวตสุทธิพันธ์ (โบนัส)</h5>
                 <p class="card-text">
                     Prapasiri Sawetsuttipan<br/>
-                    M.Eng. (Student) in Computer Engineering
+                    M.Eng. in Computer Engineering
                 </p>
             </div>
         </div>
@@ -185,6 +185,18 @@
                 <p class="card-text">
                     Sirapakit Limtragooltongchai (Pung)<br/>
                     BCs. in Biomedical Engineer
+                </p>
+            </div>
+        </div>
+    </div>
+        <div class="col">
+        <div class="card staff-image-container">
+            <img src="/img-staff/tanagrit_phangwiwat.jpg" class="card-img-top" alt="tanagrit_phangwiwat">
+            <div class="card-body">
+                <h5 class="card-title m-0">ธนกฤต  ผังวิวัฒน์ (พั้นช์)</h5>
+                <p class="card-text">
+                    Tanagrit Phangwiwat<br/>
+                    M.Eng. (Student) in Computer Engineering
                 </p>
             </div>
         </div>
