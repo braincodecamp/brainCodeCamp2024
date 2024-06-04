@@ -131,7 +131,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="https://github.com/ichatnun/brainCodeCamp/blob/main/assets/images/team_photos/kanokkorn_pimcharoen.jpeg?raw=true" class="card-img-top" alt="kanokkorn_pimcharoen">
+            <img src="/img-staff/kanokkorn_pimcharoen.jpeg" class="card-img-top" alt="kanokkorn_pimcharoen">
             <div class="card-body">
                 <h5 class="card-title m-0">กนกกร พิมพ์เจริญ (กิฟท์)</h5>
                 <p class="card-text">
