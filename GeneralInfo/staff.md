@@ -196,7 +196,7 @@
                 <h5 class="card-title m-0">จตุพงศ์ อบอุ่น (มาร์ค)</h5>
                 <p class="card-text">
                     Jatupong Oboun<br/>
-                    B.Eng. Information Engineering
+                    B.Eng. Information Engineering<br/>
                     BCC 2023 (รุ่นที่ 1)
                 </p>
             </div>
@@ -209,7 +209,7 @@
                 <h5 class="card-title m-0">ไอริณ อินทรทัต (แก้ม)</h5>
                 <p class="card-text">
                     Airin Intaratat<br/>
-                    Chonradsadornumrung School
+                    Chonradsadornumrung School <br/>
                     BCC 2023 (รุ่นที่ 1)
                 </p>
             </div>
