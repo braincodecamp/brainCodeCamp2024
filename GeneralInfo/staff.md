@@ -167,18 +167,6 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/jatupong-oboun.jpg" class="card-img-top" alt="">
-            <div class="card-body">
-                <h5 class="card-title m-0">จตุพงศ์ อบอุ่น (มาร์ค)</h5>
-                <p class="card-text">
-                    Jatupong Oboun<br/>
-                    B.Eng. Information Engineering
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card staff-image-container">
             <img src="/img-staff/sirapakit-limtragooltongchai.png" class="card-img-top" alt="">
             <div class="card-body">
                 <h5 class="card-title m-0">ศิรประกฤษฎิ์ ลิ้มตระกูลธงชัย (ปัง)</h5>
@@ -201,4 +189,31 @@
             </div>
         </div>
     </div>
+        <div class="col">
+        <div class="card staff-image-container">
+            <img src="/img-staff/jatupong-oboun.jpg" class="card-img-top" alt="">
+            <div class="card-body">
+                <h5 class="card-title m-0">จตุพงศ์ อบอุ่น (มาร์ค)</h5>
+                <p class="card-text">
+                    Jatupong Oboun<br/>
+                    B.Eng. Information Engineering
+                    BCC 2023 (รุ่นที่ 1)
+                </p>
+            </div>
+        </div>
+    </div>
+        <div class="col">
+        <div class="card staff-image-container">
+            <img src="/img-staff/airin-intaratat.jpg" class="card-img-top" alt="">
+            <div class="card-body">
+                <h5 class="card-title m-0">ไอริณ อินทรทัต (แก้ม)</h5>
+                <p class="card-text">
+                    Airin Intaratat<br/>
+                    Chonradsadornumrung School
+                    BCC 2023 (รุ่นที่ 1)
+                </p>
+            </div>
+        </div>
+    </div>
+
 </div>
