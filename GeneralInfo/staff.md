@@ -119,6 +119,18 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
+            <img src="/img-staff/chayanon-atthapak.jpeg" class="card-img-top" alt="chayanon_atthapak">
+            <div class="card-body">
+                <h5 class="card-title m-0">ชญานนท์ อรรถปักษ์ (ออม)</h5>
+                <p class="card-text">
+                    Chayanon Atthapak<br/>
+                    MSc. in Physics
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card staff-image-container">
             <img src="/img-staff/monrudee_liangruksa.jpeg" class="card-img-top" alt="monrudee_liangruksa">
             <div class="card-body">
                 <h5 class="card-title m-0">มนฤดี เลี้ยงรักษา (เอ๋)</h5>
