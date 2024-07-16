@@ -214,7 +214,7 @@
             </div>
         </div>
     </div>
-        <div class="col">
+    <div class="col">
         <div class="card staff-image-container">
             <img src="/img-staff/airin-intaratat.jpg" class="card-img-top" alt="">
             <div class="card-body">
@@ -223,6 +223,18 @@
                     Airin Intaratat<br/>
                     Chonradsadornumrung School <br/>
                     BCC 2023 (รุ่นที่ 1)
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card staff-image-container">
+            <img src="/img-staff/airin-intaratat.jpg" class="card-img-top" alt="">
+            <div class="card-body">
+                <h5 class="card-title m-0">ศุภราช อินทรโสภา (ปีโป้)</h5>
+                <p class="card-text">
+                    Suparach Intarasopa<br/>
+                    B.E. in Robotics and Automation Engineering 
                 </p>
             </div>
         </div>
