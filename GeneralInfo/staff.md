@@ -229,7 +229,7 @@
     </div>
     <div class="col">
         <div class="card staff-image-container">
-            <img src="/img-staff/airin-intaratat.jpg" class="card-img-top" alt="">
+            <img src="/img-staff/suparach-intarasopa.jpg" class="card-img-top" alt="">
             <div class="card-body">
                 <h5 class="card-title m-0">ศุภราช อินทรโสภา (ปีโป้)</h5>
                 <p class="card-text">
