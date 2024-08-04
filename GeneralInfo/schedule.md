@@ -4,9 +4,10 @@
 
 - วันที่: 4 ส.ค. 2567 (วันอาทิตย์)
 - เวลา: 10:00-16:00
-- สถานที่: ห้อง 1303 ชั้น 13 ตึกภูมิสิริมังคลานุสรณ์ โรงพยาบาลจุฬาลงกรณ์ (สำหรับผู้ที่ไม่สะดวกเข้าร่วมงานแบบ on-site สามารถเข้าร่วมแบบ online ผ่านช่องทางที่จะประกาศในภายหลัง)
+- สถานที่: ห้อง 1303 ชั้น 13 ตึกภูมิสิริมังคลานุสรณ์ โรงพยาบาลจุฬาลงกรณ์ (สำหรับผู้ที่ไม่สะดวกเข้าร่วมงานแบบ on-site สามารถเข้าร่วมแบบ online ผ่าน Zoom)
 - การแต่งกาย: ไม่มี dress code
-- [ข้อมูลเพิ่มเติม](https://docs.google.com/document/d/1bf3HuMmLXA6qaB4rONIaEEIg8dtWne3RaaTFbu2i_g0/edit?usp=sharing)
+- [ร่างกำหนดการ](/other-documents/bcc2024-orientation-schedule.pdf)
+- [ไฟล์ประกอบงาน orientation](/other-documents/20240804-BCC-orientation.pdf)
 
 2. **Office Hours (OH)**
 
