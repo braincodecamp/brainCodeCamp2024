@@ -17,7 +17,7 @@
   - ถามตอบข้อสงสัย
   - พบปะผู้เรียนบางส่วนจากโครงการรุ่นที่ 1 และ กิจกรรมอื่น ๆ (สำหรับผู้ที่เข้าร่วมงาน on-site เท่านั้น)
 - <a href="/other-documents/bcc2024-orientation-schedule.pdf">ข้อมูลเพิ่มเติม</a>
-- <a href="/other-documents/20240804-BCC-orientation">ไฟล์นำเสนอ</a>
+- <a href="/other-documents/20240804-BCC-orientation.pdf">ไฟล์นำเสนอ</a>
 
 2. **การพบปะกันก่อนการเริ่มทำโปรเจคอย่างเป็นทางการ**
 

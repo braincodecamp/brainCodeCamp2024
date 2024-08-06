@@ -7,7 +7,7 @@
 - สถานที่: ห้อง 1303 ชั้น 13 ตึกภูมิสิริมังคลานุสรณ์ โรงพยาบาลจุฬาลงกรณ์ (สำหรับผู้ที่ไม่สะดวกเข้าร่วมงานแบบ on-site สามารถเข้าร่วมแบบ online ผ่าน Zoom)
 - การแต่งกาย: ไม่มี dress code
 - <a href="/other-documents/bcc2024-orientation-schedule.pdf">ข้อมูลเพิ่มเติม</a>
-- <a href="/other-documents/20240804-BCC-orientation">ไฟล์นำเสนอ</a>
+- <a href="/other-documents/20240804-BCC-orientation.pdf">ไฟล์นำเสนอ</a>
 
 2. **Office Hours (OH)**
 
