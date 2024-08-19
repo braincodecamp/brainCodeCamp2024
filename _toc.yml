@@ -126,23 +126,14 @@ parts:
       - file: Fundamentals/SignalProcessing/signal_processing_part4_application
       - file: Fundamentals/SignalProcessing/signal_processing_outro
 
-  - caption: Modality Exploration (Week 6)
+  - caption: Modality Exploration (Weeks 6-8)
     chapters:
-      - file: Fundamentals/ModalityExploration/EEG/eeg
-        title: EEG (modality 1)
+      - file: ModalityExploration/EEG/eeg
+        title: EEG
         sections:
-          - file: Fundamentals/ModalityExploration/EEG/eeg_code_part1
-      - file: Fundamentals/ModalityExploration/fMRI/fmri
-        title: fMRI (modality 2)
-        sections:
-          - file: Fundamentals/ModalityExploration/fMRI/fmri_code_part1
-
-  - caption: Assignments (Weeks 7-8)
-    chapters:
-      - file: Fundamentals/ModalityExploration/Assignments/EEG-assignment/eeg-assignment
-        title: EEG (modality 1)
-      - file: Fundamentals/ModalityExploration/Assignments/fMRI-assignment/fmri-assignment
-        title: fMRI (modality 2)
+          - file: ModalityExploration/EEG/EEG_preprocessing_analysis
+      - file: ModalityExploration/fMRI/fMRI
+        title: fMRI
 
   - caption: Applications (Weeks 9-13)
     chapters:
