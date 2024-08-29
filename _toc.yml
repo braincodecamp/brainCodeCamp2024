@@ -120,6 +120,7 @@ parts:
 
   - caption: Signal Processing (Week 5)
     chapters:
+      - file: Fundamentals/SignalProcessing/signal_processing_intro
       - file: Fundamentals/SignalProcessing/signal_processing_part1_sampling_averaging
       - file: Fundamentals/SignalProcessing/signal_processing_part2_dft
       - file: Fundamentals/SignalProcessing/signal_processing_part3_STFT
