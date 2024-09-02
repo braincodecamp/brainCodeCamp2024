@@ -135,6 +135,8 @@ parts:
           - file: ModalityExploration/EEG/EEG_preprocessing_analysis
       - file: ModalityExploration/fMRI/fMRI
         title: fMRI
+        sections:
+          - file: ModalityExploration/fMRI/fMRI_preprocessing
 
   - caption: Applications (Weeks 9-13)
     chapters:
