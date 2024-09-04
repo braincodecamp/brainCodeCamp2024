@@ -137,6 +137,10 @@ parts:
         title: fMRI
         sections:
           - file: ModalityExploration/fMRI/fMRI_preprocessing
+      - file: ModalityExploration/spikingData/spiking_data
+        title: Spiking Data
+        sections:
+          - file: ModalityExploration/spikingData/spiking_data_processing_and_analysis
 
   - caption: Applications (Weeks 9-13)
     chapters:
