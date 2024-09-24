@@ -19,7 +19,7 @@
 - <a href="/other-documents/bcc2024-orientation-schedule.pdf">ข้อมูลเพิ่มเติม</a>
 - <a href="/other-documents/20240804-BCC-orientation.pdf">ไฟล์นำเสนอ</a>
 
-2. **การพบปะกันก่อนการเริ่มทำโปรเจคอย่างเป็นทางการ**
+2. **Mid-Program On-site Meetup**
 
 - วันที่: 29 ก.ย. 2567 (วันอาทิตย์)
 - เวลา: 13:00-16:00
