@@ -11,6 +11,7 @@ parts:
       - file: GeneralInfo/OH-teams
       - file: GeneralInfo/datasets
       - file: GeneralInfo/graduation_requirements
+      - file: GeneralInfo/FAQ
 
   - caption: Prerequisites
     chapters:
