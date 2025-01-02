@@ -10,7 +10,7 @@
   }
 
 .project-image-container {
-    height: 500px; /* Explicitly set height to 600px */
+    height: 550px; /* Explicitly set height to 550px */
     width: 100%; /* Make the container fill the full width */
     overflow: scroll;
   }
