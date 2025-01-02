@@ -1,6 +1,6 @@
 # Projects
 
-<!-- <div class="container"> -->
+ตัวอย่างมินิโปรเจค (5-12 สัปดาห์) จาก Brain Code Camp ในปี 2023 (เรียงลำดับแบบสุ่ม)
 
 <div class="row row-cols-1 row-cols-md-2 gy-4">
     <div class="col">

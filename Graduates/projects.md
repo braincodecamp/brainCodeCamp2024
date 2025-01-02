@@ -1,6 +1,6 @@
 # Projects
 
-ตัวอย่างโปรเจคขนาดย่อมจาก Brain Code Camp ในปี 2024 (ไม่เรียงตามลำดับคะแนน)
+ตัวอย่างมินิโปรเจค (5-12 สัปดาห์) จาก Brain Code Camp ในปี 2024 (เรียงลำดับแบบสุ่ม)
 
 <div class="row row-cols-1 row-cols-md-2 gy-4">
     <div class="col">
@@ -48,7 +48,7 @@
             </a>
         </div>
     </div>
-        <div class="col">
+    <div class="col">
         <div class="card project-image-container">
             <a href="https://medium.com/@parinya.dg/deep-learning-based-brain-tumor-classification-using-vgg-19-and-mri-7ab8769c3ec4" target="_blank">
                 <img src="/img-projects/2024-projects/ParinyaD.png" class="card-img-top" alt="Parinya Duangklang">
@@ -410,21 +410,6 @@
     </div>
     <div class="col">
         <div class="card project-image-container">
-            <a href="https://medium.com/@dreamezgg/การบรรยายภาพด้วย-cnn-และ-transformers-การสร้างคำอธิบายภาพอัจฉริยะ-0421cd8ded6e" target="_blank">
-                <img src="/img-projects/2024-projects/SiwaphatC.jpg" class="card-img-top" alt="Siwaphat Chanthet">
-                <div class="card-body">
-                    <p class="card-text">
-                        การบรรยายภาพด้วย CNN และ Transformers : การสร้างคำอธิบายภาพอัจฉริยะ
-                    </p>
-                    <p class="card-text">
-                        Author: Siwaphat Chanthet
-                    </p>
-                </div>
-            </a>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card project-image-container">
             <a href="https://medium.com/@bunyaphon536/eeg-binary-classification-for-epilepsy-29209147851a" target="_blank">
                 <img src="/img-projects/2024-projects/BunyaphonC.png" class="card-img-top" alt="Bunyaphon Chaimongkolsup">
                 <div class="card-body">
@@ -483,4 +468,139 @@
             </a>
         </div>
     </div>
+    <!-- <div class="col">
+        <div class="card project-image-container">
+            <a href="https://medium.com/@sitthakarnudomwongvattana/investigation-alzheimers-disease-using-autoencoders-a-deep-learning-journey-into-mri-analysis-2e42d850559c" target="_blank">
+                <img src="/img-projects/2024-projects/SitthakarnU.jpeg" class="card-img-top" alt="Sitthakarn Udomwongvattana">
+                <div class="card-body">
+                    <p class="card-text">
+                        Investigation Alzheimer’s Disease Using Autoencoders: A Deep Learning Journey into MRI Analysis
+                    </p>
+                    <p class="card-text">
+                        Author: Sitthakarn Udomwongvattana
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card project-image-container">
+            <a href="https://medium.com/@matthew.hem_g32/bdd722c58782" target="_blank">
+                <img src="/img-projects/2024-projects/MatthewH.png" class="card-img-top" alt="Matthew Hema">
+                <div class="card-body">
+                    <p class="card-text">
+                        MRI-Based Classification of DEMENTIA STAGES by Using Deep Convolutional Networks
+                    </p>
+                    <p class="card-text">
+                        Author: Matthew Hema
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card project-image-container">
+            <a href="https://medium.com/@bocchikita/alzheimers-disease-classification-using-deep-learning-model-4f4561665342" target="_blank">
+                <img src="/img-projects/2024-projects/ThananarinJ.png" class="card-img-top" alt="Thananarin Jaijang">
+                <div class="card-body">
+                    <p class="card-text">
+                        Alzheimer’s disease classification using Deep learning model
+                    </p>
+                    <p class="card-text">
+                        Author: Thananarin Jaijang
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card project-image-container">
+            <a href="https://medium.com/@surawoot.mee/develop-a-model-based-on-non-contrast-ct-brain-images-to-differentiate-between-hemorrhagic-stroke-ac8e09c01142" target="_blank">
+                <img src="/img-projects/2024-projects/SurawootM.jpg" class="card-img-top" alt="Surawoot Meekong">
+                <div class="card-body">
+                    <p class="card-text">
+                        Develop a model based on non-contrast CT brain images to differentiate between hemorrhagic stroke and ischemic stroke
+                    </p>
+                    <p class="card-text">
+                        Author: Surawoot Meekong
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card project-image-container">
+            <a href="https://medium.com/@porporchanoknon/does-depression-affect-how-you-feel-listening-to-songs-f5d110bc17f5" target="_blank">
+                <img src="/img-projects/2024-projects/ChanoknonK.png" class="card-img-top" alt="Chanoknon Kongkanta">
+                <div class="card-body">
+                    <p class="card-text">
+                        Does depression affect how you feel listening to songs?
+                    </p>
+                    <p class="card-text">
+                        Author: Chanoknon Kongkanta
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card project-image-container">
+            <a href="https://medium.com/@peemai.4book/music-genre-classification-from-fmri-features-with-supervised-machine-learning-e61a8c52fc86" target="_blank">
+                <img src="/img-projects/2024-projects/PeemaiS.png" class="card-img-top" alt="Peemai Suakaew">
+                <div class="card-body">
+                    <p class="card-text">
+                        Music Genre Classification from fMRI Features with Supervised Machine Learning
+                    </p>
+                    <p class="card-text">
+                        Author: Peemai Suakaew
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card project-image-container">
+            <a href="https://medium.com/@pair.nattaka/eeg-analysis-for-left-and-right-hand-bci-in-stroke-rehabilitation-010c4b64e24a" target="_blank">
+                <img src="/img-projects/2024-projects/NattakaL.png" class="card-img-top" alt="Nattaka Limranangkula">
+                <div class="card-body">
+                    <p class="card-text">
+                        EEG Analysis for Left and Right Hand BCI in Stroke Rehabilitation
+                    </p>
+                    <p class="card-text">
+                        Author: Nattaka Limranangkula
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div> -->
+    <!-- <div class="col">
+        <div class="card project-image-container">
+            <a href="https://medium.com/@kanawat/exploring-consciousness-a907009b2f43" target="_blank">
+                <img src="/img-projects/2024-projects/KanawatV.png" class="card-img-top" alt="Kanawat Vilasri">
+                <div class="card-body">
+                    <p class="card-text">
+                        Exploring Consciousness
+                    </p>
+                    <p class="card-text">
+                        Author: Kanawat Vilasri
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div>
+        <div class="col">
+        <div class="card project-image-container">
+            <a href="https://medium.com/@dreamezgg/การบรรยายภาพด้วย-cnn-และ-transformers-การสร้างคำอธิบายภาพอัจฉริยะ-0421cd8ded6e" target="_blank">
+                <img src="/img-projects/2024-projects/SiwaphatC.jpg" class="card-img-top" alt="Siwaphat Chanthet">
+                <div class="card-body">
+                    <p class="card-text">
+                        การบรรยายภาพด้วย CNN และ Transformers : การสร้างคำอธิบายภาพอัจฉริยะ
+                    </p>
+                    <p class="card-text">
+                        Author: Siwaphat Chanthet
+                    </p>
+                </div>
+            </a>
+        </div>
+    </div> -->
 </div>
