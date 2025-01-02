@@ -11,9 +11,11 @@ parts:
       - file: GeneralInfo/OH-teams
       - file: GeneralInfo/datasets
       - file: GeneralInfo/graduation_requirements
-      - file: GeneralInfo/graduates
       - file: GeneralInfo/FAQ
-
+  - caption: Graduates
+    chapters:
+      - file: Graduates/graduates
+      - file: Graduates/projects
   - caption: Prerequisites
     chapters:
       - file: Prereqs/BrainBuildingBlocks/BBB
@@ -76,7 +78,6 @@ parts:
       - file: Prereqs/BBB2BCC/BBB2BCC
         sections:
           - file: Prereqs/BBB2BCC/DataVisualization
-          # - file: Prereqs/BBB2BCC/NeuroscienceData
           - file: Prereqs/BBB2BCC/Modeling
 
       - file: Prereqs/IntroToModeling/modeling_front
