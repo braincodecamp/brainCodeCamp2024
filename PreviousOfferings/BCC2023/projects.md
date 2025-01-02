@@ -293,7 +293,7 @@
             </a>
         </div>
     </div>
-    <div class="col">
+    <!-- <div class="col">
         <div class="card project-image-container">
             <a href="https://medium.com/@frankxeich/using-neural-network-for-reconstructing-stimulus-location-066d50b798f9" target="_blank">
                 <img src="/img-projects/2023-projects/15SirawaritC.png" class="card-img-top" alt="Sirawarit Chuethamchan">
@@ -307,7 +307,7 @@
                 </div>
             </a>
         </div>
-    </div>
+    </div> -->
     <div class="col">
         <div class="card project-image-container">
             <a href="https://medium.com/@jdaiz0174/from-to-0-a-story-of-the-attempt-to-develop-rem-sleep-stage-classification-from-eeg-signals-47d0956638ba" target="_blank">
