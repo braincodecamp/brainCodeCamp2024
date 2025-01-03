@@ -72,20 +72,20 @@
     <h2>Final Presentation</h2>
 </div>
 <div class="activities-container">
-    <img src="/img-activities/2024-activities/final-presentations/group1.png" alt="Group 1">
+    <img src="/img-activities/2024-activities/final-presentations/group1.jpg" alt="Group 1">
 </div>
 <div class="activities-container">
-    <img src="/img-activities/2024-activities/final-presentations/group2.png" alt="Group 2">
+    <img src="/img-activities/2024-activities/final-presentations/group2.jpg" alt="Group 2">
 </div>
 <div class="activities-container">
-    <img src="/img-activities/2024-activities/final-presentations/group4.png" alt="Group 4">
+    <img src="/img-activities/2024-activities/final-presentations/group4.jpg" alt="Group 4">
 </div>
 <div class="activities-container">
-    <img src="/img-activities/2024-activities/final-presentations/group5.png" alt="Group 5">
+    <img src="/img-activities/2024-activities/final-presentations/group5.jpg" alt="Group 5">
 </div>
 <div class="activities-container">
-    <img src="/img-activities/2024-activities/final-presentations/group7.png" alt="Group 7">
+    <img src="/img-activities/2024-activities/final-presentations/group7.jpg" alt="Group 7">
 </div>
 <div class="activities-container">
-    <img src="/img-activities/2024-activities/final-presentations/group8.png" alt="Group 8">
+    <img src="/img-activities/2024-activities/final-presentations/group8.jpg" alt="Group 8">
 </div>

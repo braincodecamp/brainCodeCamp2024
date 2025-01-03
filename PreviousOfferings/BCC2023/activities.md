@@ -15,11 +15,11 @@
 ## Final Presentation
 
 <div class="activities-container">
-    <img src="/img-activities/2023-activities/bcc-2023-group-a.png" alt="Group A">
+    <img src="/img-activities/2023-activities/bcc-2023-group-a.jpg" alt="Group A">
 </div>
 <div class="activities-container">
-    <img src="/img-activities/2023-activities/bcc-2023-group-c.png" alt="Group C">
+    <img src="/img-activities/2023-activities/bcc-2023-group-c.jpg" alt="Group C">
 </div>
 <div class="activities-container">
-    <img src="/img-activities/2023-activities/bcc-2023-group-d.png" alt="Group D">
+    <img src="/img-activities/2023-activities/bcc-2023-group-d.jpg" alt="Group D">
 </div>
