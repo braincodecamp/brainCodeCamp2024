@@ -16,6 +16,7 @@ parts:
     chapters:
       - file: Graduates/graduates
       - file: Graduates/projects
+      - file: Graduates/activities
   - caption: Prerequisites
     chapters:
       - file: Prereqs/BrainBuildingBlocks/BBB
@@ -171,6 +172,7 @@ parts:
         sections:
           - file: PreviousOfferings/BCC2023/graduates
           - file: PreviousOfferings/BCC2023/projects
+          - file: PreviousOfferings/BCC2023/activities
 
   # - file: Fundamentals/DeepLearning/deep_learning_part2_intro
   #   title: DL Part 2 (Week 8)

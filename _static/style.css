@@ -19,3 +19,12 @@
     max-height: 70%; /* Set the maximum height to 70% of the parent */ 
     object-fit: cover; /* Maintain aspect ratio with resizing */
   }
+
+.activities-container{
+  text-align: center;
+}
+
+.activities-container img{
+  height: auto; /* Set the maximum height to 70% of the parent */ 
+  width: 70%; /* Maintain aspect ratio with resizing */
+}
